@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="veiwport" content="width=device-width, initial-scale=1.0">
+        <title>Personal Portfolio Website</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+
+    <body>
+        <div id="header-thanks">
+            <H1 class="thanks">Thanks for contacting me!</H1>
+            <p class="thanks-p">I will be sure to respond to you shorlty via e-mail.
+            <br>Feel free to return to the <a href="https://ethan8279.github.io/portfolio/"><span>main page</span></a>. </p>
+        </div>
+    </body>
+
+</html>
