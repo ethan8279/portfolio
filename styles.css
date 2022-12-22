@@ -283,6 +283,33 @@ form input, form textarea {
     border-radius: 6px;
 }
 
+/*---------------------------form submit page--------------------------------*/
+
+#header-thanks {
+    width: 100%;
+    height: 100vh;
+    background-image: url(ethan.png);
+    filter: grayscale(60%);
+    background-size: cover;
+    background-position: center;
+}
+
+.thanks {
+    margin: 50px;
+    padding-top: 150px;
+    font-size: 55px;
+    text-decoration: none;
+}
+
+.thanks-p {
+    font-size: 33px;
+    margin: 90px;
+}
+
+.thanks-p span {
+    color: rgb(0, 64, 214);
+}
+
 /*--------------------------css for small screens----------------------------*/
 nav .fa-solid {
     display: none;
@@ -355,5 +382,16 @@ nav .fa-solid {
 
     .contact-left, .contact-right {
         flex-basis: 100%;
+    }
+
+    .thanks {
+        margin: 15px;
+        padding-top: 250px;
+        font-size: 26px;
+    }
+
+    .thanks-p {
+        font-size: 16px;
+        margin: 25px;
     }
 }
